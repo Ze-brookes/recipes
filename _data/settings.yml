@@ -1,12 +1,12 @@
-title: Your name or name of site
+title: Recipes with cocoacacao
 description: A website with a blog
+footer_text: Copyright 2020 CocoaCacao
+header_feature_image: ../uploads/sara-cervera-we4l7ch6iwc-unsplash.jpg
 header_text: My Dream Blog
 header_text_color: "#ffffff"
-footer_text: Copyright 2020 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
+bannerheight: 20vmax
 logo: /uploads/logo.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
