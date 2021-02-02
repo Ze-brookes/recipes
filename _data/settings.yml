@@ -1,12 +1,12 @@
-title: Recipes with cocoacacao
+title: Blogs with cocoacacao
 description: A website with a blog
 footer_text: Copyright 2020 CocoaCacao
 header_feature_image: ../uploads/sara-cervera-we4l7ch6iwc-unsplash.jpg
-header_text: Just Delicious Desserts Blog
+header_text: Simple Thoughts and Treats Blog
 header_text_color: "#d58406"
-bannerheight: 20vmax
+bannerheight: 10vmax
 logo: ../uploads/296093_e47c7vyf.png
 favicon: ../uploads/296093_e47c7vyf.png
-gridlayout: true
+gridlayout: false
 fixednavbar: false
 upzoom: true
