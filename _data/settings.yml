@@ -5,8 +5,8 @@ header_feature_image: ../uploads/sara-cervera-we4l7ch6iwc-unsplash.jpg
 header_text: Just Delicious Desserts Blog
 header_text_color: "#d58406"
 bannerheight: 20vmax
-logo: ../uploads/alexandra-golovac-qe0rpf2thy-unsplash.jpg
+logo: ../uploads/296093_e47c7vyf.png
 favicon: ../uploads/296093_e47c7vyf.png
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
