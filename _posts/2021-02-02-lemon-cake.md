@@ -3,7 +3,7 @@ layout: post
 title: The Book Cover is...Yellow
 date: 2021-02-02T11:50:13.309Z
 header_feature_image: ../uploads/jack-hamilton-jr311w7n9fk-unsplash-yellow-.jpg
-title_color: "#f2e5ee"
+title_color: "#03033b"
 comments: false
 tags:
   - ""
