@@ -1,32 +1,47 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 1
-date: 2019-10-19
-published: true
+title: Chocolate Brownie Cake
 order: 1
-tags:
+date: 2019-10-19
+layout: recipe
+published: true
+tags: null
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Here is a superb recipe for when you want brownies and cake combined!
 
-![Placeholder](../uploads/placeholder1.jpg)
-
+![A slice of chocolate cake on a white plate with lilac placed beside it](../uploads/chocolatecake.jpg "Chocolate Brownie Cake")
 
 ## Ingredients
 
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
+* 100g butter
+* 100g caster sugar
+* 100g brown sugar
+* 125g dark chocolate
+* 1 tbsp golden syrup
+* 2 eggs
+* 1 tsp vanilla extract/essence
+* 100g plain flour
+* ½ tsp baking powder
+* 2 tbsp cocoa powder
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**STEP 1**
+Heat oven to 180C/fan 160C/gas 4. Grease and line your cake tin.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**STEP 2**
+Melt butter, both sugars, chocolate and golden syrup gently in a pan on a low heat until mixture is smooth and lump-free.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**STEP 3**
+Remove the pan from the heat, set aside.
 
-- Serves: 6
-- Preparation time: 1 hour
+**STEP 4**
+Break the eggs into a bowl and whisk with vanilla extract or essence. When light and frothy, mix the flour, baking powder and cocoa powder into the chocolate mixture and mix thoroughly.
+
+**STEP 5**
+Put the mixture into the greased and lined cake tin and place on the middle to lower part of the oven. Bake for 30 mins. If the cake is wobbly cook for another 10 minutes or until it firms.
+
+**STEP 6**
+Remove and allow to cool for 20-30 mins before cutting into wedges and serving.
+
+**Optional**
+Serve by itself, or decorate as you wish, perhaps with some ice cream or fruit.
