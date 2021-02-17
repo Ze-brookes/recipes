@@ -10,7 +10,7 @@ Here is a superb recipe for when you want brownies and cake combined!
 
 ![A slice of chocolate cake on a white plate with lilac placed beside it](../uploads/chocolatecake.jpg "Chocolate Brownie Cake")
 
-## Ingredients
+### Ingredients
 
 * 100g butter
 * 100g caster sugar
@@ -23,7 +23,7 @@ Here is a superb recipe for when you want brownies and cake combined!
 * ½ tsp baking powder
 * 2 tbsp cocoa powder
 
-## Method
+### Method
 
 **STEP 1**
 Heat oven to 180C/fan 160C/gas 4. Grease and line your cake tin.
