@@ -2,6 +2,7 @@
 layout: post
 title: All About Atom
 date: 2021-03-05T12:54:52.774Z
+header_feature_image: ../uploads/luca-bravo-xjxwbfso2f0-unsplash.jpg
 title_color: "#1e1b1b"
 comments: false
 tags:
