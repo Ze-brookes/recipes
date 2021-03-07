@@ -8,7 +8,9 @@ comments: false
 tags:
   - ""
 ---
-Colours for your book cover is extremely important. During a photoshop tutorial concerning recipe book covers, I started to ponder on the importance of book covers and colour. When my lecturer was changing his book design cover; ensuring readability, appropriate typography and colour, I took a mental note to research later whether the colour I had envisioned for my book was suitable enough.
+Colours for your book cover is extremely important.
+
+During a photoshop tutorial concerning recipe book covers, I started to ponder on the importance of book covers and colour. When my lecturer was changing his book design cover; ensuring readability, appropriate typography and colour, I took a mental note to research later whether the colour I had envisioned for my book was suitable enough.
 
 *Could you guess from the title which colour I chose?*
 
