@@ -3,7 +3,7 @@ layout: post
 title: HTML - its elements, tags and where it came from
 date: 2021-02-26T12:50:27.802Z
 header_feature_image: ../uploads/goran-ivos-iacpokgpbam-unsplash.jpg
-title_color: "#040303"
+title_color: "#ffffff"
 comments: false
 tags:
   - ""
