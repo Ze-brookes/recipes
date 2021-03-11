@@ -8,8 +8,9 @@ tags: null
 ---
 Here is a superb recipe for when you want brownies and cake combined!
 
-###### Prep time: 10 minutes
-Cook time: 30-40 minutes
+**Prep time: 10 minutes**
+
+**Cook time: 30-40 minutes**
 
 ![A slice of chocolate cake on a white plate with lilac placed beside it](../uploads/chocolatecake.jpg "Chocolate Brownie Cake")
 
