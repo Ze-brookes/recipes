@@ -10,6 +10,8 @@ tags: null
 
 **Cook time: 25 minutes**
 
+Wanting an old school classic? Here it is!
+
 ![Flapjack in the form of a cake](../uploads/becky-fantham-lblwuzrecti-unsplash.jpg "Flapjack")
 
 ### Ingredients
@@ -19,13 +21,10 @@ tags: null
 * 3 tbsp golden syrup
 * 250g porridge oats
 
-
 ### Method
-
 
 **STEP 1**
 Preheat the oven to 180C/160C fan oven/ gas 4 and grease and line your baking tray and cake tin.
-
 
 **STEP 2**
 Put the butter, sugar and golden syrup into a medium pan and stirring regularly till the butter melts and the rest of the ingredients have combined.
