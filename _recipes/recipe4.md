@@ -11,7 +11,6 @@ Blueberry Muffins a lovely variation of the vanilla muffin! (If you are not a fa
 
 **Tip!** If you plan on making the larger muffins, we recommend adding 1 to 2 tablespoons of water into any empty muffin cases that you have available. This way the cups with water will heat up at the same rate as the cups with muffin batter which will help the muffins bake more evenly.
 
-
 **Serves: Eight large muffins/ten medium-sized muffins/20-22 mini muffins** 
 
 **Prep time: 10 minutes**
