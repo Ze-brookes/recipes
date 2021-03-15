@@ -6,6 +6,8 @@ layout: recipe
 published: true
 tags: null
 ---
+A classic treat
+
 **Prep: 5 minutes**
 
 **Cook: 10 minutes**
