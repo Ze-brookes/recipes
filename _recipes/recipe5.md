@@ -10,6 +10,8 @@ tags: null
 
 **Cook: 10 minutes**
 
+![](../uploads/ptmp-eikyqiz45r0-unsplash.jpg)
+
 ### Ingredients
 
 * 350g self-raising flour, plus more for dusting
@@ -21,6 +23,7 @@ tags: null
 * 1 tsp vanilla extract
 * Squeeze of lemon juice/1 tbsp lemon juice
 * Jam and clotted cream, to serve
+* **Optional:**  Dried fruits
 
 ### Method
 
@@ -28,7 +31,7 @@ tags: null
 Heat the oven to 220C/200C fan/gas 7. Tip the self-raising flour into a large bowl with ¼ tsp salt and the baking powder, then mix.
 
 **STEP 2**
-Add the butter, then rub in with your fingers until the mix looks like fine crumbs. Stir in the caster sugar.
+Add the butter, then rub in with your fingers until the mix looks like fine crumbs. Stir in the caster sugar. Add dried fruits - optional.
 
 **STEP 3**
 Put the milk into a jug and heat in the microwave for about 30 secs until warm, but not hot. Add the vanilla extract and a squeeze of lemon juice, then set aside for a moment.
