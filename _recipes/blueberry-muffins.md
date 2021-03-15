@@ -6,7 +6,15 @@ layout: recipe
 ---
 Blueberry Muffins a lovely variation of the vanilla muffin! (If you are not a fan of blueberries leave them out or swap them for another fruit or chocolate chips.)
 
+**Serves:** Eight large muffins/ten medium-sized muffins/20-22 mini muffins 
+
+**Prep time:** 10 minutes
+
+**Cook time:** 20 minutes/ 9-12 minutes for mini-muffins
+
 ![Blueberry muffins still in their cases, in their muffin tray](../uploads/imag0861.jpg "Blueberry Muffins")
+
+**Tip!** If you plan on making the larger muffins, we recommend adding 1 to 2 tablespoons of water into any empty muffin cases that you have available. This way the cups with water will heat up at the same rate as the cups with muffin batter which will help the muffins bake more evenly.
 
 ### Ingredients
 
@@ -19,7 +27,6 @@ Blueberry Muffins a lovely variation of the vanilla muffin! (If you are not a fa
 * 80 ml – 120 ml milk – dairy and non-dairy are fine
 * 1 1/2 teaspoons vanilla extract
 * 125 grams fresh or frozen blueberries – do not defrost the berries
-
 
 ### Method
 
