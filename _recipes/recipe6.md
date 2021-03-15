@@ -1,55 +1,47 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 6
+title: Vanilla Cheesecake
+order: 6
 date: 2019-10-19
+layout: recipe
 published: true
-order: 1
 tags:
   - Greek
   - Meat
   - Hot
 ---
+A sweet, sweet choice.
 
-This is just some sample content to show you what _markdown_ looks like. There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+![Vanilla Cheesecake with strawberries on top](../uploads/imag1077_2-1-.jpg "Vanilla Cheesecake")
 
-![Moussaka](../uploads/moussaka.jpg)
+### 
+Ingredients
 
+* 250g digestive biscuits
+* 100g butter, melted
+* 3 ½ tbsp vanilla extract/essence
+* 600g full fat soft cheese
+* 100g icing sugar
+* 284ml pot of double cream
+* For the topping
+* 400g of strawberries, halved
+* 25g icing sugar
 
-## Ingredients
+### Method
 
-- 1 kg aubergines (large or/and elongated variety)
-- 160 ml vegetable oil (about 1 teacup)
-- 1 large onion, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+**STEP 1**
+To make the base, butter and line a (preferably) a loose-bottomed tin with baking parchment. Put the digestive biscuits in a plastic food bag and crush to crumbs using a rolling pin. Transfer the crumbs to a bowl, then pour melted butter over the crumbs. Mix thoroughly until the crumbs are completely coated. Tip them into the prepared tin and press firmly down into the base to create an even layer. Chill in the fridge for 1 hr to set firmly.
 
+**STEP 2**
+Pour the vanilla and the double cream into a bowl and whisk with an electric mixer or fork until it is just starting to thicken to soft peaks. Place the soft cheese and icing sugar in a separate bowl, then beat for 2 mins with an electric mixer or fork until it starts to thicken, it will get thin and then start to thicken again.
 
-## Method
+**STEP 3**
+Tip in the double cream and fold it into the soft cheese mix. You are looking for it to be thickened enough to hold its shape. (Take a spoonful of the mixture and tip the spoon upside down – should not drop). If it’s not thick enough, continue to whisk.
 
-Moussaka should be baked in the oven. Use a roasting container, either square or oblong, approximately 25 x 25 cm or 39 x 28 cm. It is recommended that you spread the work involved over two days for your convenience; one can easily cook the meat the day before, without the Moussaka suffering at all. Do not do the same with the aubergines; they should be fried on the day.
+**STEP 4**
+Spoon onto the biscuit base, starting from the edges and working inwards, making sure that there are no air bubbles. Smooth the top of the cheesecake down with the back of a dessert spoon or spatula. Leave to set in the fridge overnight.
 
-Top and tail the aubergines, without peeling them. Rinse them, cut them lengthways in 75-mm thick slices and immerse them in salted water, for 30 minutes. Take them out, squeeze gently, rinse, then squeeze them again. Drain them in a colander and pat dry. Fry them in hot vegetable oil until they become pale golden on both sides; you can either deep-fry them, which is easier but they absorb a lot of oil, or shallow-fry them. In either case, drain them on absorbent paper on a flat platter before serving, so that most of their oil will dribble away.
+**STEP 5**
+Bring the cheesecake to room temperature about 30 mins before serving. To remove it from the tin, place the base on top of a can, then gradually pull the sides of the tin down. Slip the cake onto a serving plate, removing the lining paper and base.
 
-Sautee the sliced onion in 2 tablespoons vegetable oil, until it looks glistening. Add the meat and sauté together, stirring, until all the lumps are broken down and the meat starts to change colour. Pour in the wine, add tomatoes, sliced finely, the spices, salt and pepper and the oregano. Cover and cook for 20 minutes, stirring from time to time in case it sticks. Then mix in the grated cheese and parsley.
-Melt the butter and, away from the heat, gradually add the flour and stir to amalgamate. Return to the heat and gradually add the milk and seasoning, stirring continuously. Simmer for 9-10 minutes, stirring, until it has thickened considerably. Withdraw the pan from the heat, let it stand briefly, then add the cheese and the egg yolks. Stir to amalgamate them. Do not let the sauce boil after this.
-
-It should by now be a thick béchamel, to enable it to sit on top of the meat mixture and form a kind of crust.
-
-To assemble, cover the base of the roasting dish with half of the fried aubergines, then spread half of the meat mixture evenly on top of them and cover neatly with the remaining aubergines. Spread the remaining meat and sauce evenly over the top and cover neatly with the béchamel sauce. Sprinkle the grated cheese all over the top, and the breadcrumbs. Moussaka from Macedonia may contain a layer of thinly sliced round potatoes which have been fried first. Bake in a pre-heated oven, gas no.4/ 350 grades F/ 180 grades C, for 1 hour, until a golden crust is formed all over the top. Let it stand for 5 minutes before serving, in order to be able to cut it more easily. To serve, cut into square or oblong-shaped pieces, about 8 cm thick. It should be quite dry by then and the pieces should ideally stay intact.
-
-- Serves: 6
-- Preparation time: 1 hour
+**STEP 6**
+Place the strawberries unto the top of the cheesecake – decorate as you wish. Feel free to decorate however you wish or to leave/substitute the strawberries.
