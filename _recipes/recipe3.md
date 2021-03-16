@@ -6,6 +6,8 @@ layout: recipe
 published: true
 tags: null
 ---
+A classic school pudding.
+
 **Prep time: 5 minutes**
 
 **Cook time: 25 minutes**
