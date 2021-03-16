@@ -30,7 +30,7 @@ Here is a superb recipe for when you want brownies and cake combined!
 ### Method
 
 **STEP 1**
-Heat oven to 180C/fan 160C/gas 4. Grease and line your cake tin.
+Heat oven to 180ºC/fan 160ºC/gas 4. Grease and line your cake tin.
 
 **STEP 2**
 Melt butter, both sugars, chocolate and golden syrup gently in a pan on a low heat until mixture is smooth and lump-free.
