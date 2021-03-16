@@ -12,7 +12,7 @@ Blueberry Muffins a lovely variation of the vanilla muffin! (If you are not a fa
 
 **Cook time:** 20 minutes/ 9-12 minutes for mini-muffins
 
-![Blueberry muffins still in their cases, in their muffin tray](../uploads/imag0861.jpg "Blueberry Muffins")
+![Blueberry muffins still in their cases, in their muffin tray](../uploads/blueberrymuffins.jpg "Blueberry Muffins")
 
 **Tip!** If you plan on making the larger muffins, we recommend adding 1 to 2 tablespoons of water into any empty muffin cases that you have available. This way the cups with water will heat up at the same rate as the cups with muffin batter which will help the muffins bake more evenly.
 
