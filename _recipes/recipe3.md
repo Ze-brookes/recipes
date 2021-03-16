@@ -12,7 +12,7 @@ Wanting an old school classic? Here it is! A classic school pudding.
 
 **Cook time: 25 minutes**
 
-![Flapjack in the form of a cake](../uploads/becky-fantham-lblwuzrecti-unsplash.jpg "Flapjack")
+![Flapjack in the form of a cake](../uploads/flapjackslices.jpg "Flapjack")
 
 ### Ingredients
 
