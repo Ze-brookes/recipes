@@ -6,7 +6,7 @@ layout: recipe
 published: true
 tags: null
 ---
-A classic treat
+A classic treat.
 
 **Prep: 5 minutes**
 
@@ -17,8 +17,6 @@ A classic treat
 ### Ingredients
 
 * 350g self-raising flour, plus more for dusting
-
-  m;m 
 * 1 tsp baking powder
 * ¼ tsp salt
 * 85g butter, cut into cubes
