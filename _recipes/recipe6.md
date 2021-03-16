@@ -13,8 +13,7 @@ A sweet, sweet choice.
 
 ![Vanilla Cheesecake with strawberries on top](../uploads/imag1077_2-1-.jpg "Vanilla Cheesecake")
 
-### 
-Ingredients
+### Ingredients
 
 * 250g digestive biscuits
 * 100g butter, melted
@@ -22,7 +21,8 @@ Ingredients
 * 600g full fat soft cheese
 * 100g icing sugar
 * 284ml pot of double cream
-* For the topping
+
+  **For the topping**
 * 400g of strawberries, halved
 * 25g icing sugar
 
