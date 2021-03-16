@@ -30,7 +30,7 @@ A classic treat.
 ### Method
 
 **STEP 1**
-Heat the oven to 220C/200C fan/gas 7. Tip the self-raising flour into a large bowl with ¼ tsp salt and the baking powder, then mix.
+Heat the oven to 220ºC/200ºC fan/gas 7. Tip the self-raising flour into a large bowl with ¼ tsp salt and the baking powder, then mix.
 
 **STEP 2**
 Add the butter, then rub in with your fingers until the mix looks like fine crumbs. Stir in the caster sugar. Add dried fruits - optional.
