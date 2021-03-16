@@ -35,7 +35,7 @@ Here is an easy recipe for a light and citrusy lemon cake. However if fruit-flav
 ### Method
 
 **STEP 1**
-Preheat your oven to 160ºC/ fan 140ºC/ gas 3. Grease and line your baking tin.
+Preheat your oven to 160ºC/ fan 140ºC/gas 3. Grease and line your baking tin.
 
 **STEP 3**
 Finely grate the zest of two lemons and sift the self-raising flour and baking powder into a large bowl.
