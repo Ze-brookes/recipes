@@ -12,7 +12,7 @@ Here is an easy recipe for a light and citrusy lemon cake. However if fruit-flav
 
 **Cook time: 40-45 minutes**
 
-![Lemon cake dusted with icing sugar](../uploads/erika-osberg-uuaaruzymv0-unsplash.jpg "Lemon Cake")
+![Lemon cake dusted with icing sugar](../uploads/lemoncake.jpg "Lemon Cake")
 
 ### Ingredients
 
