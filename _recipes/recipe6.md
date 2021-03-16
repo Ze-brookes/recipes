@@ -15,7 +15,7 @@ A sweet, sweet choice.
 
 **Cook time: 0 minutes**
 
-![Vanilla Cheesecake with strawberries on top](../uploads/imag1077_2-1-.jpg "Vanilla Cheesecake")
+![Vanilla Cheesecake with strawberries on top](../uploads/vanillacheesecake.jpg "Vanilla Cheesecake")
 
 ### Ingredients
 
