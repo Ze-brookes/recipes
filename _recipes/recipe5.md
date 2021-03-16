@@ -12,7 +12,7 @@ A classic treat.
 
 **Cook: 10 minutes**
 
-![Scones with dried fruit on a white plate, with a side of clotted cream in a small bowl](../uploads/ptmp-eikyqiz45r0-unsplash.jpg "Scones")
+![Scones with dried fruit on a white plate, with a side of clotted cream in a small bowl](../uploads/scones.jpg "Scones")
 
 ### Ingredients
 
