@@ -26,7 +26,7 @@ A sweet, sweet choice.
 * 100g icing sugar
 * 284ml pot of double cream
 
-  **For the topping**
+  ### **For the topping**
 * 400g of strawberries, halved
 * 25g icing sugar
 
