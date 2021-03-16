@@ -1,5 +1,5 @@
 ---
-title: Student Nibbles
+title: Student Nibbles Introduction
 subtitle: Sweet pudding recipes for the stressed and snacky student
 permalink: /recipes/
 date: 2020-11-19T18:50:31.663Z
