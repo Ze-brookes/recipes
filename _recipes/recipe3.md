@@ -6,13 +6,11 @@ layout: recipe
 published: true
 tags: null
 ---
-A classic school pudding.
+Wanting an old school classic? Here it is! A classic school pudding.
 
 **Prep time: 5 minutes**
 
 **Cook time: 25 minutes**
-
-Wanting an old school classic? Here it is!
 
 ![Flapjack in the form of a cake](../uploads/becky-fantham-lblwuzrecti-unsplash.jpg "Flapjack")
 
