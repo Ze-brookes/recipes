@@ -24,7 +24,7 @@ Wanting an old school classic? Here it is! A classic school pudding.
 ### Method
 
 **STEP 1**
-Preheat the oven to 180C/160C fan oven/ gas 4 and grease and line your baking tray and cake tin.
+Preheat the oven to 180ºC/160ºC fan oven/gas 4 and grease and line your baking tray and cake tin.
 
 **STEP 2**
 Put the butter, sugar and golden syrup into a medium pan and stirring regularly till the butter melts and the rest of the ingredients have combined.
