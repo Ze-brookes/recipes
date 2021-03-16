@@ -31,7 +31,7 @@ Blueberry Muffins a lovely variation of the vanilla muffin! (If you are not a fa
 ### Method
 
 **STEP 1**
-Pre-heat oven to 200oC.
+Pre-heat oven to 200ºC/fan 220ºC/gas 7.
 
 **STEP 2**
 Whisk the flour, sugar, baking powder, and salt in a large bowl.
