@@ -11,6 +11,10 @@ tags:
 ---
 A sweet, sweet choice.
 
+**Prep time: 1 hour 30 minutes plus overnight set**
+
+**Cook time: 0 minutes**
+
 ![Vanilla Cheesecake with strawberries on top](../uploads/imag1077_2-1-.jpg "Vanilla Cheesecake")
 
 ### Ingredients
