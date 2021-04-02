@@ -2,6 +2,7 @@
 layout: post
 title: What to do for a website if you don't know how to code and why they're needed
 date: 2021-03-19T12:53:42.843Z
+header_feature_image: ../uploads/green-chameleon-s9cc2skysjm-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
