@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ebooks vs Print books
+title: The benefit of the Ebook
 date: 2021-04-09T18:22:55.061Z
 title_color: "#ffffff"
 comments: false
@@ -8,6 +8,8 @@ tags:
   - ""
 ---
 Which do you prefer?
+
+The printbook or the ebook?
 
 You most likely have a preference but you cannot deny how useful ebooks have been. Oh you don't know?
 
