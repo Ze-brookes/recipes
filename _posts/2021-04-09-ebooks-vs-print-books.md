@@ -24,6 +24,20 @@ Two types of ebooks:
 1. Re-flowable
 2. Fixed layout
 
+*[Reflowable files](https://ebookpartnership.com/support/knowledge-base/choosing-ebook-format-reflowable-fixed-layout/)* tend to be used the most in fiction titles. It is also the most used, in comparison to fixed layout files as it is accepted by most platforms whenuploading to retailers and can work on more ereading devices.
 
+One of the most common reflowable ebook formats is **ePUB**(different versions)for different devices and major retail channels including iPad, Google Play and Amazon (although Amazon has its own reflowable format: **Mobi** as well.).
 
-Well don't worry because I can give you 7 points on how ebooks and prints are useful in their spheres but also why a person may chose one over the other.
+*[Fixed-layout files](https://ebookpartnership.com/support/knowledge-base/choosing-ebook-format-reflowable-fixed-layout/)* can be uploaded to a lot of retailers as well however fixed layout files are limited to display properly on certain devices. Therefore the format may not appear as intended on ebook readers that mostly text.
+
+The most common fixed-layout eBook formats tends to be: **Kindle Print Replica, AZW3 file** and **Kindle Textbook Creator** for Amazon Kindle and **ePUB3** for both Google and Apple.
+
+Ebooks vs Print books:
+
+* Ebooks have also made reading more accessible to others as they are cheaper, as they do not involve raw materials
+* Technically they're as light as the device you carry to read them on
+* Most ebook readers tend to involve free software to download to read ebooks on.
+* They are also environmentally friendly due to the same reason as the first bullet point
+* Ebooks also have heightened user experience as they have [interactive elements](https://kitaboo.com/top-10-advantages-of-ebooks-over-printed-books/) and the ability to link the ebook to other interactive apps and websites
+
+So you see ebooks are amazing! They offer an interactive element that readers can enjoy. So next time, if you feel like there isn't a reason for ebooks just read this blog ;)
