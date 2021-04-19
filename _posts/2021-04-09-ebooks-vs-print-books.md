@@ -2,6 +2,7 @@
 layout: post
 title: The benefit of the Ebook
 date: 2021-04-09T18:22:55.061Z
+header_feature_image: ../uploads/spencer-k5h_45qtybi-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
