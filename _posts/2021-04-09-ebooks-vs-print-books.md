@@ -10,6 +10,8 @@ tags:
 ---
 Which do you prefer? The print book or the ebook?
 
+![Black shoes behind white arrows pointing the left and right](../uploads/jon-tyson-pxb7yem5lvs-unsplash.jpg "Decisions...")
+
 You most likely have a preference. [Nielsen](https://nielsenbook.co.uk/wp-content/uploads/sites/4/2020/09/Research_Brochure.pdf) from their survey in 2018 that 28% of used ebooks as opposed to the 58% who use print books. With smart technology basically on our wrists, why do you think people might prefer reading a physical book?
 
 Now I can't speak for the 58% as I'm pretty sure I wasn't part of that survey but I do prefer reading from a print book when it comes to certain occasions. 
