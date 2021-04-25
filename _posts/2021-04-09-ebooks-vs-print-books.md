@@ -8,9 +8,9 @@ comments: false
 tags:
   - ""
 ---
-Which do you prefer? The print book or the ebook?
+Which do you prefer? The print book or the ebook? This blog will go through what an ebook is and why it could be beneficial choice to the reader as opposed to books.
 
-![Black shoes behind white arrows pointing the left and right](../uploads/jon-tyson-pxb7yem5lvs-unsplash.jpg "Decisions...")
+![Black shoes behind white arrows pointing to the left and right](../uploads/jon-tyson-pxb7yem5lvs-unsplash.jpg "Decisions...")
 
 You most likely have a preference. [Nielsen](https://nielsenbook.co.uk/wp-content/uploads/sites/4/2020/09/Research_Brochure.pdf) from their survey in 2018 that 28% of used ebooks as opposed to the 58% who use print books. With smart technology basically on our wrists, why do you think people might prefer reading a physical book?
 
@@ -27,9 +27,13 @@ Two types of ebooks:
 1. Re-flowable
 2. Fixed layout
 
-*[Reflowable files](https://ebookpartnership.com/support/knowledge-base/choosing-ebook-format-reflowable-fixed-layout/)* tend to be used the most in fiction titles. It is also the most used, in comparison to fixed layout files as it is accepted by most platforms whenuploading to retailers and can work on more ereading devices.
+*[Reflowable files](https://ebookpartnership.com/support/knowledge-base/choosing-ebook-format-reflowable-fixed-layout/)* tend to be used the most in fiction titles. It is also the most used, in comparison to fixed layout files as it is accepted by most platforms when uploading to retailers and can work on more devices.
 
-One of the most common reflowable ebook formats is **ePUB**(different versions)for different devices and major retail channels including iPad, Google Play and Amazon (although Amazon has its own reflowable format: **Mobi** as well.).
+One of the most common reflowable ebook formats is **ePUB**(different versions)for different devices and major retail channels including iPad, Google Play and Amazon (although Amazon has its own reflowable format: **Mobi** as well).
+
+![Examples of reflowable and fixed-layout ebooks](../uploads/picture1-ebooks.png "Reflowable vs Fixed-layout")
+
+*Image above sourced from [Maps System](https://mapsystemsindia.com/resources/reflowable-vs-fixed-layout.html)*
 
 *[Fixed-layout files](https://ebookpartnership.com/support/knowledge-base/choosing-ebook-format-reflowable-fixed-layout/)* can be uploaded to a lot of retailers as well however fixed layout files are limited to display properly on certain devices. Therefore the format may not appear as intended on ebook readers that mostly text.
 
