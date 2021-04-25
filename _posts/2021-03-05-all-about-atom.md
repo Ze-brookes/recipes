@@ -6,7 +6,8 @@ header_feature_image: ../uploads/luca-bravo-xjxwbfso2f0-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
-  - ""
+  - Atom
+  - TextEditor
 ---
 Hello again and welcome back to the blog! Always lovely to see you. After the blog post about HTML we are now going to discuss about the text editor called Atom.
 
