@@ -6,7 +6,7 @@ header_feature_image: ../uploads/green-chameleon-s9cc2skysjm-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
-  - ""
+  - CMS
 ---
 *WordPress, Joomla, Drupal* and *Netlify*… what do they all have in common?
 
