@@ -10,7 +10,6 @@ tags:
 ---
 Hello again and welcome back to the blog! Always lovely to see you. After the blog post about HTML we are now going to discuss about the text editor called Atom.
 
-
 Contents for this blog includes:
 
 * What a text editor is?
@@ -33,6 +32,6 @@ Contents for this blog includes:
 
 1. Make sure to start learning the code or markup language that you want to use (You can use Atom for JavaScript and Python as well)
 2. If your code is incorrect then it won’t work
-3. W3 Schools have some great tutorials for web development
+3. [W3 Schools](https://www.w3schools.com/) have some great tutorials for web development
 
 Extra tip: if you are looking to change the fonts of your website through CSS [here](https://www.youtube.com/watch?v=rJVyOIHpNLQ) is  a great tutorial
