@@ -6,7 +6,7 @@ header_feature_image: ../uploads/monika-grabkowska-neu4t59mtcy-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
-  - ""
+  - Epub
 ---
 As I am currently designing a small recipe ebook I thought I would write a blog, not only as an abstract log of this journey but to also give a little advice to anyone who may want to create a mini-recipe ebook. So now we commence...
 
@@ -29,6 +29,8 @@ Whilst constructing a recipe book on InDesign try to remember a few things (in n
 5. Trial and error: Like most things in this world - things needed to be tested to ensure the best UX (user experience)
 
    * Download an ePub Reader to see what your ebook looks like outside of InDesign
-   * Use the ePub interactivity 
+   * Use the ePub interactivity preview tab on InDesign (Window/Interactive) to see if your animations are what you actually want
+
+     ![Screenshot to show how ePub interactivity preview looks on Indesig](../uploads/epub-preview.png "Preview")
 
 **Bonus tip! Don't forget your imprint, colophon and title spread** (p.s colophons traditionally come at the end of books and state the production information of the book e.g font type
