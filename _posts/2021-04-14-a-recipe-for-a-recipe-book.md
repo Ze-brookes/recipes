@@ -10,7 +10,7 @@ tags:
 ---
 What makes a good recipe book? Is it solely the recipe of the entire format of the book? Is it the design?
 
-Do you remember my previous blog on the different ebook [formats](https://www.creativestudiosderby.co.uk/fixed-layout-vs-reflowable-epubs-indesign-ebook-formats-explained/): *fixed-layout* and *reflowable?* (Go back if you're not too sure about what I'm talking about 😊) Well, definitely take this into consideration when choosing to make a Recipe ebook.
+As I am currently design a small recipe ebook I thDo you remember my previous blog on the different ebook [formats](https://www.creativestudiosderby.co.uk/fixed-layout-vs-reflowable-epubs-indesign-ebook-formats-explained/): *fixed-layout* and *reflowable?* (Go back if you're not too sure about what I'm talking about 😊) Well, definitely take this into consideration when choosing to make a Recipe ebook.
 
 Whilst constructing a recipe book on InDesign try to remember a few other things:
 
